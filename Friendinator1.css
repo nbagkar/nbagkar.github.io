@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #084a8c;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding: 0;
+}
